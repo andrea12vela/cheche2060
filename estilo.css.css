@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+H1{ 
+   color: #F6C;
+   font-size:36px;
+   font:"Times New Roman", Times, serif;
+   border-style:double;
+}
+
+vista{
+	color: #C3F;
+	font-size: 36px;
+	text-align:center;
+}
+
+itzel{
+	color:#C33;
+	font-size:18px;
+	font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+}
+
+body{
+	background-color:#9CF;
+}
